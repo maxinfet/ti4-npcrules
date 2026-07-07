@@ -10,4 +10,4 @@ NPC Player Rules
   - In the event the NPC player is the speaker, then the next player in speaker order makes the choice
 - They do not perform any transactions
 - If they reach the hand limit, they will discard the newest cards they drew
-- In the agenda phase, they will not vote, and they will not use whens and afters
+- They will not vote in the Agenda phase and will not play whens and afters
