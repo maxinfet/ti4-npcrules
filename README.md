@@ -9,5 +9,5 @@ NPC Player Rules
 - In the unlikely event a choice must be made for the NPC player for a mandatory ability, the speaker makes that choice (for example, choosing what ship to assign a hit to with Dimensional Splicer, placing a naalu mech ect.)
   - In the event the NPC player is the speaker, then the next player in speaker order makes the choice
 - They do not perform any transactions
-- If they reach the hand limit, they will discard the newest cards they drew
+- They will discard the newest cards they drew when discarding to hand size
 - They will not vote in the Agenda phase and will not play whens and afters
