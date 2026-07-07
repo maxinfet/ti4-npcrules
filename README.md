@@ -9,3 +9,5 @@ NPC Player Rules
   - In the event the NPC player is the speaker, then the next player in speaker order makes the choice
 - They do not perform any transactions
 - If Checks and Balances is in play, they give the highest initiative to the player with the lowest score (the intent is that they are playing to win, so they would attempt to not give the high-scoring person the highest initiative)
+- If they reach the hand limit, they will discard the newest cards they got
+- In the agenda phase, they will not vote, and they will not use whens and afters
