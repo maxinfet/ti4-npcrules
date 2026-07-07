@@ -1,1 +1,11 @@
-
+NPC Player Rules
+- They will always pick the highest initiative order
+- They will always play their strategy card as their first action
+- They will pass as their second action
+- They will always use unit abilities
+  - They will not fire PDS outside of the tile the PDS is in
+- They do not use any non-unit abilities that are a may
+- In the unlikely event a choice must be made for the NPC player for a mandatory ability, the speaker makes that choice (for example, choosing what ship to assign a hit to with Dimensional Splicer, placing a naalu mech ect.)
+  - In the event the NPC player is the speaker, then the next player in speaker order makes the choice
+- They do not perform any transactions
+- If Checks and Balances is in play, they give the highest initiative to the player with the lowest score (the intent is that they are playing to win, so they would attempt to not give the high-scoring person the highest initiative)
